@@ -13,7 +13,7 @@ function Detail(props) {
 }
 
 
-const App = () => {
+const app = () => {
     let peoples = [["Vortex", "57", "Mexican"], ["Ash", "58", "African"],]
 
     return (
